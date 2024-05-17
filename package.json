@@ -7,13 +7,21 @@
   "scripts": {
     "lint": "eslint src/**/*.js",
     "start": "node ./src/index.js",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "contacts": "node src/contacts/contacts.js",
+    "get-all": "node src/scripts/getAllContacts",
+    "generate": "node src/scripts/generateContacts.js",
+    "add-one": "node src/scripts/addOneContact.js",
+    "count": "node src/scripts/countContacts.js",
+    "thanos": "node src/scripts/thanos.js",
+    "remove-all": "node src/scripts/removeAllContacts.js"
   },
   "keywords": [],
   "author": "Aneta Badova <ann.badova@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.2.0",
+    "@faker-js/faker": "^8.4.1",
     "eslint": "^9.2.0",
     "globals": "^15.2.0",
     "nodemon": "^3.1.0"
