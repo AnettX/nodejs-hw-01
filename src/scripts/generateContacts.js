@@ -11,7 +11,7 @@ const generateContacts = async (number) => {
       contacts.push(newContact);
     }
     await fs.writeFile(PATH_DB, JSON.stringify(contacts, null, 2));
-    console.log(`Додано ${number} нових контактів.`);
+    console.log(`Додано нових контактів: ${number} шт.`);
   } catch (error) {
     console.error('Помилка запису у файл:', error);
   }

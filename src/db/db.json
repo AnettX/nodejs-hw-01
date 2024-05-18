@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Larry Schinner",
+    "phone": "(761) 306-8597 x11418",
+    "email": "Lexie.Bartoletti@hotmail.com",
+    "job": "International Communications Engineer"
+  },
+  {
+    "name": "Margie Dicki",
+    "phone": "405-787-7834",
+    "email": "Gertrude85@gmail.com",
+    "job": "Corporate Operations Executive"
+  },
+  {
+    "name": "Essie Schmeler",
+    "phone": "744-718-7975 x9880",
+    "email": "Haley_Medhurst-Heidenreich39@hotmail.com",
+    "job": "District Functionality Liaison"
+  },
+  {
+    "name": "Mr. Ross Price",
+    "phone": "298-211-0631",
+    "email": "Shawn27@hotmail.com",
+    "job": "Lead Identity Assistant"
+  },
+  {
+    "name": "Evelyn Stanton",
+    "phone": "521.845.2916 x31575",
+    "email": "Maria_Heaney@gmail.com",
+    "job": "Regional Operations Specialist"
+  },
+  {
+    "name": "Sue Macejkovic",
+    "phone": "(316) 982-2740",
+    "email": "Suzanne_Oberbrunner95@gmail.com",
+    "job": "Direct Applications Director"
+  }
+]
